@@ -1,0 +1,4 @@
+interface:
+  display_name: "Read OKF Wiki"
+  short_description: "Read relevant OKF concepts before repository work"
+  default_prompt: "Use $read-okf-wiki to consult the repository wiki and follow its relevant source-backed guidance for this task."
